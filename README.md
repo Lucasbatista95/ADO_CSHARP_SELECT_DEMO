@@ -20,4 +20,4 @@ var dados = db.ObterClientes();
 
 ## Perfil no Linkedin
 
-[Linkedin](https://www.linkedin.com/in/lucas-batista-8395a7186/)
+[Lucas Batista de Deus](https://www.linkedin.com/in/lucas-batista-8395a7186/)
