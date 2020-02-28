@@ -21,4 +21,3 @@ var dados = db.ObterClientes();
 ## Perfil no Linkedin
 
 [Lucas Batista de Deus](https://www.linkedin.com/in/lucas-batista-8395a7186/)
-Tetestando
